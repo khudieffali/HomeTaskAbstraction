@@ -1,0 +1,15 @@
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.AssemblyInfo.cs
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.sourcelink.json
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\bin\Debug\net6.0\HomeTaskAbstraction.exe
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\bin\Debug\net6.0\HomeTaskAbstraction.deps.json
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\bin\Debug\net6.0\HomeTaskAbstraction.runtimeconfig.json
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\bin\Debug\net6.0\HomeTaskAbstraction.dll
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\bin\Debug\net6.0\HomeTaskAbstraction.pdb
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.dll
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\refint\HomeTaskAbstraction.dll
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.pdb
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\HomeTaskAbstraction.genruntimeconfig.cache
+D:\Praktikant\GarageTask\HomeTaskAbstraction\HomeTaskAbstraction\obj\Debug\net6.0\ref\HomeTaskAbstraction.dll
